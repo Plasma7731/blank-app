@@ -1,2 +1,3 @@
 streamlit
 plotly.express
+streamlit_extras.let_it_rain
